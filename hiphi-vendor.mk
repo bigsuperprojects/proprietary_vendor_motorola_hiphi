@@ -3244,7 +3244,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/hiphi/proprietary/vendor/etc/st21nfc_conf_ss.txt:$(TARGET_COPY_OUT_VENDOR)/etc/st21nfc_conf_ss.txt \
     vendor/motorola/hiphi/proprietary/vendor/etc/st54j_conf_ds.txt:$(TARGET_COPY_OUT_VENDOR)/etc/st54j_conf_ds.txt \
     vendor/motorola/hiphi/proprietary/vendor/etc/st54j_conf_ss.txt:$(TARGET_COPY_OUT_VENDOR)/etc/st54j_conf_ss.txt \
-    vendor/motorola/hiphi/proprietary/vendor/etc/thermal-engine-hiphi.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-hiphi.conf \
     vendor/motorola/hiphi/proprietary/vendor/etc/thermal-engine.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine.conf \
     vendor/motorola/hiphi/proprietary/vendor/firmware/cps4035.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/cps4035.bin \
     vendor/motorola/hiphi/proprietary/vendor/firmware/csot_goodix_cfg_group.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/csot_goodix_cfg_group.bin \
