@@ -3526,7 +3526,5 @@ PRODUCT_PACKAGES += \
     com.android.hotwordenrollment.common.util \
     android.hardware.biometrics.fingerprint@2.1-goodixservice \
     android.hardware.biometrics.fingerprint@2.1-service-fpc \
-    fpc_ident \
-    goodix_ident \
     vendor.qti.camera.provider@2.7-service_64 \
     motsettings
